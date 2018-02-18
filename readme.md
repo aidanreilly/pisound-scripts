@@ -1,0 +1,1 @@
+Move scripts to /usr/local/pisound/scripts/pisound-btn
