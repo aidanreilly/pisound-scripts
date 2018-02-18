@@ -36,4 +36,4 @@ done
 
 log "Rebooting..."
 
-sudo reboot
+sudo reboot now
